@@ -1,8 +1,5 @@
 <?php include 'includes/session.php'; ?>
 <?php include 'includes/header.php'; ?>
-<style>
-	
-</style>
 <body class="hold-transition skin-blue layout-top-nav">
 <div class="wrapper">
 
@@ -52,10 +49,10 @@
 	        	</div>
 	        </div>
 	      </section>
-	     
+		  <h2>High-quality car transportation service</h2>
 	    </div>
 	  </div>
-  
+
   	<?php include 'includes/footer.php'; ?>
 </div>
 
