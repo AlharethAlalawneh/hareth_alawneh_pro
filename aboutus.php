@@ -59,7 +59,7 @@
 							Community of Car Enthusiasts: Discover our shared love for automobiles and how this passion drives us to deliver top-notch car transport services to fellow enthusiasts.
 
 							Committed to Reliability: Learn about our unwavering commitment to reliability, punctuality, and professionalism, which sets us apart in the car transport industry.
-						
+					    </p>
 					</div>
 
 					<img src="./img/4.jpg" alt="Car Image">
